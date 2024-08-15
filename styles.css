@@ -21,8 +21,8 @@ body {
     flex-wrap: wrap;
     height: 100%; 
     justify-content: center;
-    height: 600px;
-    width: 600px;
+    height: 700px;
+    width: 800px;
 }
 
 #grid div {
